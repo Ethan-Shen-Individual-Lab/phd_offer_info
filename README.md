@@ -34,6 +34,7 @@ pip install requests beautifulsoup4 pandas selenium
 
 ### 配置与运行
 
+首先，请修改代码中涉及Google Chrome的路径信息，改为你本地的路径。
 确保您已经准备好包含院校信息的文件。运行脚本，在命令行中输入以下命令启动程序：
 
 ```bash
@@ -119,6 +120,7 @@ Prepare an Excel or CSV file containing the institutions to be crawled. The file
 
 ### Running the Script
 
+First, please modify the Google Chrome path information in the code to match your local path.
 Execute the script:
 
 ```bash
